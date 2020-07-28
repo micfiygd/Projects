@@ -1,0 +1,54 @@
+nav a{
+display: inline-block;
+border: 1px solid black;
+padding:0 20px;
+margin: 5px 10px 5px 0;
+color: white;
+background-color: #8BA7C5;
+text-decoration: none;
+}	
+
+nav a:hover {
+	color: #8BA7C5;
+	background-color: white;
+	border: 1px solid #8BA7C5;
+}
+
+.logo {
+ border: 2px solid black;
+ padding: 10px; 
+}		
+
+.example {
+display: inline-block;
+margin: 0 35px 0 0;
+}	
+
+.horizontal-example {
+display: inline-block;
+margin: 0 35px 0 0;	
+}	
+
+.horizontal-example img{
+display: inline-block;
+border: 1px solid #003466;
+padding: 130px 25px;		
+}	
+
+.example img{
+padding: 25px;
+border: 1px solid #003466;
+}	
+
+#colorbackground {
+background-color: #003466; 
+}	
+
+#colorbackground p {
+color: white;	
+}
+
+#caption {
+color: gray;
+font-size: 13px;	
+}	
